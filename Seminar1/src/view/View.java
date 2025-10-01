@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class View {
-    private Controller controller;
+    private final Controller controller;
 
     public View(Controller controller) {
         this.controller = controller;
@@ -23,7 +23,7 @@ public class View {
 
     public static int readArraySize(){
         Scanner sc = new Scanner(System.in);
-        int size = 0;
+        int size;
         while(true){
             try {
                 System.out.print("Enter array size : ");
