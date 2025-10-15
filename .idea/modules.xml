@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ProgramingParadigmsSeminars.iml" filepath="$PROJECT_DIR$/ProgramingParadigmsSeminars.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ToyLanguageInterpreter/ToyLanguageInterpreter.iml" filepath="$PROJECT_DIR$/ToyLanguageInterpreter/ToyLanguageInterpreter.iml" />
     </modules>
   </component>
 </project>
